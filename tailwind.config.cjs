@@ -13,6 +13,9 @@ module.exports = {
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
       },
+      backgroundColor: {
+        blackOverlay: 'rgba(0, 0 ,0 ,0.4)',
+      },
     },
     screens: {
       xs: "480px",
